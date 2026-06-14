@@ -6,7 +6,7 @@ html {
 body {
   margin: 0 auto;
   font-family: "Segoe UI", sans-serif;
-  color: #999;
+  color: #023e3f;
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -27,7 +27,7 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #555; 
+  color: #33c5f6; 
   font-weight: bold;
 }
 
@@ -116,7 +116,7 @@ textarea:focus {
 .footer {
   margin-top: auto;
   background-color: #333;
-  color: #555;
+  color: #33c5f6; 
   padding: 20px;
   text-align: center;
   font-size: 14px;
