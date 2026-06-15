@@ -11,4 +11,7 @@ Changes I made:
     - Removed <div class="nav"> and replaced with <nav class="nav">
     - Replaced <div class="form-section"> with <section class="form-section">
     - Replaced h3 tags with h2 tags because they need to be sequenced properly
-    
+    - Added more contrasting colors to the nav, footer, and body
+
+
+    After all of these changes, the site score now sits at 100. 
